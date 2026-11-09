@@ -11,7 +11,7 @@ SIREN 132 377 078 RCS Paris
 47 rue Vivienne 75002 Paris  
 E-mail : contact@mattiko.com
 
-Apple est responsable de ses propres services (iCloud, Apple Health, App Store / StoreKit). Eutono est responsable des traitements qu’il détermine dans l’app.
+Apple est responsable de ses propres services (iCloud, Apple Health, App Store / StoreKit). L’éditeur, Mathieu Cocheteux EI, est responsable des traitements qu’il détermine dans l’app.
 
 ## 2. Données traitées
 
@@ -88,7 +88,7 @@ iCloud, HealthKit et l’App Store sont des services Apple. Des données peuvent
 
 Accès, rectification, effacement, limitation, opposition, portabilité, retrait du consentement, réclamation auprès de la **CNIL** (cnil.fr).
 
-Dans l’app : export JSON depuis Réglages ; suppression des données d’entraînement ; interrupteurs Health, iCloud, notifications. Health se révoque aussi dans l’app Santé. Abonnements : Réglages → Identifiant Apple → Abonnements. Délai de réponse : 1 mois. mathieu@cocheteux.eu si vous n’avez plus l’app.
+Dans l’app : export JSON depuis Réglages ; suppression des données d’entraînement ; interrupteurs Health, iCloud, notifications. Health se révoque aussi dans l’app Santé. Abonnements : Réglages → Identifiant Apple → Abonnements. Délai de réponse : 1 mois. contact@mattiko.com si vous n’avez plus l’app.
 
 Cette version **n’offre pas** de compte Eutono à supprimer. Une fonction Friends / Sign in with Apple, si elle est ajoutée plus tard, aura sa propre suppression de compte (y compris révocation du jeton Apple) et une politique mise à jour **avant** activation.
 

@@ -65,4 +65,4 @@ Date en tête. Un changement substantiel (Friends, compte, nouveau modèle tarif
 
 ## 12. Contact
 
-mathieu@cocheteux.eu
+contact@mattiko.com
