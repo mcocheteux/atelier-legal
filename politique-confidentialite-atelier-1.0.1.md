@@ -1,14 +1,15 @@
 # Politique de confidentialité — Eutono (version 1.0.1)
 
-**Dernière mise à jour : 7 septembre 2026**
+**Dernière mise à jour : 9 novembre 2026**
 
-Cette politique décrit le traitement des données dans l’application iOS **Eutono** (identifiant `atelier.fitness.app`), éditée par Mathieu Cocheteux. Elle correspond à la version **1.0.1** : carnet d’entraînement local, Apple Health en option, synchronisation iCloud privée en option, abonnement **Eutono Premium** optionnel via l’App Store. **Pas de compte Eutono, pas de Sign in with Apple, pas de Friends.**
+Cette politique décrit le traitement des données dans l’application iOS **Eutono** (identifiant `atelier.fitness.app`), éditée par Mathieu Cocheteux EI, nom commercial Mattiko, SIREN 132 377 078 RCS Paris, 47 rue Vivienne 75002 Paris, contact@mattiko.com. Elle correspond à la version **1.0.1** : carnet d’entraînement local, Apple Health en option, synchronisation iCloud privée en option, abonnement **Eutono Premium** optionnel via l’App Store. **Pas de compte Eutono, pas de Sign in with Apple, pas de Friends.**
 
 ## 1. Responsable de traitement
 
-**Mathieu Cocheteux**  
-Personne physique établie en France  
-E-mail : mathieu@cocheteux.eu
+**Mathieu Cocheteux EI, nom commercial Mattiko**  
+SIREN 132 377 078 RCS Paris  
+47 rue Vivienne 75002 Paris  
+E-mail : contact@mattiko.com
 
 Apple est responsable de ses propres services (iCloud, Apple Health, App Store / StoreKit). Eutono est responsable des traitements qu’il détermine dans l’app.
 

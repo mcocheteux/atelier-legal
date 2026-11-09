@@ -1,14 +1,15 @@
 # Conditions générales d’utilisation — Eutono (version 1.0.1)
 
-**Dernière mise à jour : 7 septembre 2026**
+**Dernière mise à jour : 9 novembre 2026**
 
 Les présentes conditions régissent l’application iOS **Eutono**, version **1.0.1**. En utilisant Eutono, vous les acceptez. Le consentement Health ou iCloud n’est **pas** cette acceptation : il passe par les interrupteurs et l’invite Apple.
 
 ## 1. Éditeur
 
-**Mathieu Cocheteux**  
-France  
-E-mail : mathieu@cocheteux.eu
+**Mathieu Cocheteux EI, nom commercial Mattiko**  
+SIREN 132 377 078 RCS Paris  
+47 rue Vivienne 75002 Paris  
+E-mail : contact@mattiko.com
 
 Application avec journal d’entraînement utilisable sans compte. **Eutono Premium** est un abonnement optionnel via l’App Store.
 
@@ -46,7 +47,7 @@ Voir la **politique de confidentialité** de la 1.0.1. Ces CGU n’emportent pas
 
 ## 8. Propriété intellectuelle
 
-App, marque Atelier, textes et bibliothèque d’exercices protégés. Marques Apple : iCloud, Apple Health, HealthKit, App Store.
+L’application, ses textes et sa bibliothèque d’exercices sont protégés par le droit d’auteur. iCloud, Apple Health, HealthKit et App Store sont des marques d’Apple Inc.
 
 ## 9. Responsabilité
 
