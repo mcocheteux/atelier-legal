@@ -1,16 +1,17 @@
-# Politique de confidentialité — Atelier (version 1.0.1)
+# Politique de confidentialité — Eutono (version 1.0.1)
 
-**Dernière mise à jour : 7 septembre 2026**
+**Dernière mise à jour : 9 novembre 2026**
 
-Cette politique décrit le traitement des données dans l’application iOS **Atelier** (identifiant `atelier.fitness.app`), éditée par Mathieu Cocheteux. Elle correspond à la version **1.0.1** : carnet d’entraînement local, Apple Health en option, synchronisation iCloud privée en option, abonnement **Atelier Premium** optionnel via l’App Store. **Pas de compte Atelier, pas de Sign in with Apple, pas de Friends.**
+Cette politique décrit le traitement des données dans l’application iOS **Eutono** (identifiant `atelier.fitness.app`), éditée par Mathieu Cocheteux EI, nom commercial Mattiko, SIREN 132 377 078 RCS Paris, 47 rue Vivienne 75002 Paris, contact@mattiko.com. Elle correspond à la version **1.0.1** : carnet d’entraînement local, Apple Health en option, synchronisation iCloud privée en option, abonnement **Eutono Premium** optionnel via l’App Store. **Pas de compte Eutono, pas de Sign in with Apple, pas de Friends.**
 
 ## 1. Responsable de traitement
 
-**Mathieu Cocheteux**  
-Personne physique établie en France  
-E-mail : mathieu@cocheteux.eu
+**Mathieu Cocheteux EI, nom commercial Mattiko**  
+SIREN 132 377 078 RCS Paris  
+47 rue Vivienne 75002 Paris  
+E-mail : contact@mattiko.com
 
-Apple est responsable de ses propres services (iCloud, Apple Health, App Store / StoreKit). Atelier est responsable des traitements qu’il détermine dans l’app.
+Apple est responsable de ses propres services (iCloud, Apple Health, App Store / StoreKit). L’éditeur, Mathieu Cocheteux EI, est responsable des traitements qu’il détermine dans l’app.
 
 ## 2. Données traitées
 
@@ -34,19 +35,19 @@ Sans iCloud ni Health, ces données ne quittent pas l’appareil (hors traitemen
 - **Lecture :** masse corporelle, pour affiner l’estimation des calories
 - **Écriture :** séances de musculation ou pilates terminées, et l’énergie active estimée
 
-Atelier ne lit pas votre historique Health d’entraînements. Refuser Health n’empêche pas d’utiliser l’app.
+Eutono ne lit pas votre historique Health d’entraînements. Refuser Health n’empêche pas d’utiliser l’app.
 
 ### 2.3 iCloud privé (interrupteur, désactivé par défaut)
 
-Conteneur `iCloud.atelier.fitness.app`, dans **votre** iCloud. Copie privée de vos séances sur vos appareils liés au même compte Apple. Nous n’y écrivons pas les échantillons Apple Health ni le poids corporel. Ce n’est pas un compte Atelier.
+Conteneur `iCloud.atelier.fitness.app`, dans **votre** iCloud. Copie privée de vos séances sur vos appareils liés au même compte Apple. Nous n’y écrivons pas les échantillons Apple Health ni le poids corporel. Ce n’est pas un compte Eutono.
 
 ### 2.4 Achats App Store (Premium, facultatif)
 
-Si vous souscrivez à Atelier Premium, **Apple** traite le paiement et l’abonnement. Atelier ne stocke pas votre carte bancaire. L’app lit uniquement l’état d’abonnement (entitlement) fourni par StoreKit pour savoir si le démarrage illimité de séances est débloqué.
+Si vous souscrivez à Eutono Premium, **Apple** traite le paiement et l’abonnement. Eutono ne stocke pas votre carte bancaire. L’app lit uniquement l’état d’abonnement (entitlement) fourni par StoreKit pour savoir si le démarrage illimité de séances est débloqué.
 
 ### 2.5 Ce que cette version ne traite pas
 
-Pas de Sign in with Apple, pas de cercle d’amis, pas d’identifiant de compte Atelier, pas de serveur autre qu’iCloud Apple / App Store, pas de tracking.
+Pas de Sign in with Apple, pas de cercle d’amis, pas d’identifiant de compte Eutono, pas de serveur autre qu’iCloud Apple / App Store, pas de tracking.
 
 ## 3. Finalités et bases légales
 
@@ -81,23 +82,23 @@ iCloud, HealthKit et l’App Store sont des services Apple. Des données peuvent
 - Données locales : jusqu’à suppression dans l’app, ou désinstallation.
 - Copie iCloud : tant que l’option est active ; suppression via l’app et/ou iCloud.
 - Health : selon vos réglages dans l’app Santé.
-- Abonnement : selon votre abonnement Apple ; Atelier ne conserve pas de moyen de paiement.
+- Abonnement : selon votre abonnement Apple ; Eutono ne conserve pas de moyen de paiement.
 
 ## 7. Vos droits
 
 Accès, rectification, effacement, limitation, opposition, portabilité, retrait du consentement, réclamation auprès de la **CNIL** (cnil.fr).
 
-Dans l’app : export JSON depuis Réglages ; suppression des données d’entraînement ; interrupteurs Health, iCloud, notifications. Health se révoque aussi dans l’app Santé. Abonnements : Réglages → Identifiant Apple → Abonnements. Délai de réponse : 1 mois. mathieu@cocheteux.eu si vous n’avez plus l’app.
+Dans l’app : export JSON depuis Réglages ; suppression des données d’entraînement ; interrupteurs Health, iCloud, notifications. Health se révoque aussi dans l’app Santé. Abonnements : Réglages → Identifiant Apple → Abonnements. Délai de réponse : 1 mois. contact@mattiko.com si vous n’avez plus l’app.
 
-Cette version **n’offre pas** de compte Atelier à supprimer. Une fonction Friends / Sign in with Apple, si elle est ajoutée plus tard, aura sa propre suppression de compte (y compris révocation du jeton Apple) et une politique mise à jour **avant** activation.
+Cette version **n’offre pas** de compte Eutono à supprimer. Une fonction Friends / Sign in with Apple, si elle est ajoutée plus tard, aura sa propre suppression de compte (y compris révocation du jeton Apple) et une politique mise à jour **avant** activation.
 
 ## 8. Mineurs
 
-Atelier n’est pas une app pour enfants. Ne saisissez pas les données d’un enfant de moins de 15 ans.
+Eutono n’est pas une app pour enfants. Ne saisissez pas les données d’un enfant de moins de 15 ans.
 
 ## 9. Santé
 
-Atelier est un **carnet d’entraînement**. Ce n’est pas un dispositif médical, pas un avis médical, pas un outil de diagnostic. Consultez un médecin en cas de doute, douleur ou pathologie. Les calories sont estimées.
+Eutono est un **carnet d’entraînement**. Ce n’est pas un dispositif médical, pas un avis médical, pas un outil de diagnostic. Consultez un médecin en cas de doute, douleur ou pathologie. Les calories sont estimées.
 
 Les données HealthKit et le poids ne sont jamais utilisés pour de la publicité ou de la revente.
 

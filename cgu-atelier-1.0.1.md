@@ -1,34 +1,35 @@
-# Conditions générales d’utilisation — Atelier (version 1.0.1)
+# Conditions générales d’utilisation — Eutono (version 1.0.1)
 
-**Dernière mise à jour : 7 septembre 2026**
+**Dernière mise à jour : 9 novembre 2026**
 
-Les présentes conditions régissent l’application iOS **Atelier**, version **1.0.1**. En utilisant Atelier, vous les acceptez. Le consentement Health ou iCloud n’est **pas** cette acceptation : il passe par les interrupteurs et l’invite Apple.
+Les présentes conditions régissent l’application iOS **Eutono**, version **1.0.1**. En utilisant Eutono, vous les acceptez. Le consentement Health ou iCloud n’est **pas** cette acceptation : il passe par les interrupteurs et l’invite Apple.
 
 ## 1. Éditeur
 
-**Mathieu Cocheteux**  
-France  
-E-mail : mathieu@cocheteux.eu
+**Mathieu Cocheteux EI, nom commercial Mattiko**  
+SIREN 132 377 078 RCS Paris  
+47 rue Vivienne 75002 Paris  
+E-mail : contact@mattiko.com
 
-Application avec journal d’entraînement utilisable sans compte. **Atelier Premium** est un abonnement optionnel via l’App Store.
+Application avec journal d’entraînement utilisable sans compte. **Eutono Premium** est un abonnement optionnel via l’App Store.
 
 ## 2. Objet
 
 Carnet d’entraînement personnel : séances, exercices, repos, historique, widgets et Live Activities. **Friends et Sign in with Apple ne sont pas proposés dans la 1.0.1.**
 
-Atelier n’est pas un coach médical, pas un dispositif médical.
+Eutono n’est pas un coach médical, pas un dispositif médical.
 
 ## 3. Accès
 
-iPhone compatible. Aucun compte Atelier n’est nécessaire. Un compte iCloud Apple n’est nécessaire que si vous activez la synchronisation privée. Vous êtes responsable de la sécurité de votre appareil.
+iPhone compatible. Aucun compte Eutono n’est nécessaire. Un compte iCloud Apple n’est nécessaire que si vous activez la synchronisation privée. Vous êtes responsable de la sécurité de votre appareil.
 
 Nous pouvons faire évoluer ou arrêter l’app. Exportez vos séances si elles ont de la valeur pour vous.
 
-## 4. Gratuit et Atelier Premium
+## 4. Gratuit et Eutono Premium
 
 - Le **journal** (historique, consultation, partage) reste utilisable.
-- Vous pouvez **terminer gratuitement trois séances** démarrées dans l’app. Ensuite, le **démarrage** de nouvelles séances peut nécessiter **Atelier Premium**, sauf si vous restaurez un achat déjà effectué.
-- **Atelier Premium** est un abonnement à reconduction tacite facturé par Apple (StoreKit) : mensuel ou annuel. Le prix et la période sont affichés sur l’écran d’achat.
+- Vous pouvez **terminer gratuitement trois séances** démarrées dans l’app. Ensuite, le **démarrage** de nouvelles séances peut nécessiter **Eutono Premium**, sauf si vous restaurez un achat déjà effectué.
+- **Eutono Premium** est un abonnement à reconduction tacite facturé par Apple (StoreKit) : mensuel ou annuel. Le prix et la période sont affichés sur l’écran d’achat.
 - Le paiement est débité sur votre compte Apple à la confirmation. L’abonnement se renouvelle sauf résiliation au moins 24 heures avant la fin de la période en cours. Le renouvellement peut être débité dans les 24 heures précédant la fin de période. Gérez ou résiliez dans Réglages → Identifiant Apple → Abonnements. Restaurez vos achats depuis l’app.
 - Les remboursements sont gérés par Apple selon ses règles.
 
@@ -46,13 +47,13 @@ Voir la **politique de confidentialité** de la 1.0.1. Ces CGU n’emportent pas
 
 ## 8. Propriété intellectuelle
 
-App, marque Atelier, textes et bibliothèque d’exercices protégés. Marques Apple : iCloud, Apple Health, HealthKit, App Store.
+L’application, ses textes et sa bibliothèque d’exercices sont protégés par le droit d’auteur. iCloud, Apple Health, HealthKit et App Store sont des marques d’Apple Inc.
 
 ## 9. Responsabilité
 
 Le service dépend d’iOS, d’iCloud, d’Apple Health et de l’App Store. Des interruptions ou erreurs d’estimation peuvent survenir.
 
-**Consommateurs (France) :** rien n’exclut la responsabilité pour faute lourde ou dolosive, atteinte à la personne, ou garanties d’ordre public. Pour le surplus, Atelier est fourni en l’état ; pas de résultat sportif garanti.
+**Consommateurs (France) :** rien n’exclut la responsabilité pour faute lourde ou dolosive, atteinte à la personne, ou garanties d’ordre public. Pour le surplus, Eutono est fourni en l’état ; pas de résultat sportif garanti.
 
 ## 10. Droit applicable
 
@@ -64,4 +65,4 @@ Date en tête. Un changement substantiel (Friends, compte, nouveau modèle tarif
 
 ## 12. Contact
 
-mathieu@cocheteux.eu
+contact@mattiko.com
